@@ -21,7 +21,7 @@ B = v_0*(t_1 - t_2)/(2*t_1*t_2*R);
 for i = 1:length(T)
     t = T(i);
     x(i) = A/B*(sin(B*t^2/2));
-    y(i) = A/B*(cos(B*t^2/2));
+    y(i) = A/B*(cos(B*t^2/2)) + A/B;
     phi(i) = B*t^2/2;
 end
 
