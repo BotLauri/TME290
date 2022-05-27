@@ -1,0 +1,7 @@
+/home/jonas/assignments/6/tme290-lawnmower/build/CMakeFiles/install/strip.dir
+/home/jonas/assignments/6/tme290-lawnmower/build/CMakeFiles/install/local.dir
+/home/jonas/assignments/6/tme290-lawnmower/build/CMakeFiles/install.dir
+/home/jonas/assignments/6/tme290-lawnmower/build/CMakeFiles/list_install_components.dir
+/home/jonas/assignments/6/tme290-lawnmower/build/CMakeFiles/rebuild_cache.dir
+/home/jonas/assignments/6/tme290-lawnmower/build/CMakeFiles/edit_cache.dir
+/home/jonas/assignments/6/tme290-lawnmower/build/CMakeFiles/tme290-lawnmower.dir
